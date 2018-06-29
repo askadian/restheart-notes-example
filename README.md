@@ -67,7 +67,7 @@ If you don't have compass installed then you'll get an error message, in this ca
 
 To login in the Web app, you can use the **admin** user with password **changeit**
 
-For more information on RESTHeart' security refer to the [documentation](http://restheart.org/docs/security.html).
+For more information on RESTHeart' security refer to the [documentation](https://restheart.org/learn/security/).
 
 ## Testing
 
